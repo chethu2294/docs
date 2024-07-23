@@ -1,5 +1,5 @@
 ---
-title: .NET samples and tutorials
+title: .NET samples and tutorials and 
 description: Information on samples and tutorials for .NET Core, ASP.NET Core, and the C# language that help you learn about .NET.
 author: BillWagner
 ms.author: wiwagn
